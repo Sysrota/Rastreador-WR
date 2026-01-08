@@ -24,6 +24,7 @@ C_DEPS :=
 SUBDIRS := \
 Application/User/Core \
 Application/User/Startup \
+Application/User/aplicacao \
 Drivers/CMSIS \
 Drivers/STM32L4xx_HAL_Driver \
 Middlewares/FreeRTOS \
