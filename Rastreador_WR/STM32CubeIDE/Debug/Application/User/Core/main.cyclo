@@ -1,4 +1,4 @@
-D:/Projeto-WR/Rastreador_WR/Core/Src/main.c:66:5:main	1
-D:/Projeto-WR/Rastreador_WR/Core/Src/main.c:149:6:SystemClock_Config	4
-D:/Projeto-WR/Rastreador_WR/Core/Src/main.c:200:6:StartDefaultTask	1
-D:/Projeto-WR/Rastreador_WR/Core/Src/main.c:217:6:Error_Handler	1
+D:/Projeto-WR/Rastreador_WR/Core/Src/main.c:21:5:main	1
+D:/Projeto-WR/Rastreador_WR/Core/Src/main.c:44:6:StartDefaultTask	1
+D:/Projeto-WR/Rastreador_WR/Core/Src/main.c:53:6:SystemClock_Config	1
+D:/Projeto-WR/Rastreador_WR/Core/Src/main.c:79:13:MX_GPIO_Init	1

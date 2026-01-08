@@ -1,4 +1,4 @@
-D:/Projeto-WR/Rastreador_WR/Core/Src/main.c:66:5:main	72	static
-D:/Projeto-WR/Rastreador_WR/Core/Src/main.c:149:6:SystemClock_Config	96	static
-D:/Projeto-WR/Rastreador_WR/Core/Src/main.c:200:6:StartDefaultTask	16	static
-D:/Projeto-WR/Rastreador_WR/Core/Src/main.c:217:6:Error_Handler	4	static,ignoring_inline_asm
+D:/Projeto-WR/Rastreador_WR/Core/Src/main.c:21:5:main	48	static
+D:/Projeto-WR/Rastreador_WR/Core/Src/main.c:44:6:StartDefaultTask	16	static
+D:/Projeto-WR/Rastreador_WR/Core/Src/main.c:53:6:SystemClock_Config	96	static
+D:/Projeto-WR/Rastreador_WR/Core/Src/main.c:79:13:MX_GPIO_Init	32	static

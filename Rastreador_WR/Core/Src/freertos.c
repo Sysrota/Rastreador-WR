@@ -71,6 +71,10 @@ void vApplicationGetIdleTaskMemory( StaticTask_t **ppxIdleTaskTCBBuffer, StackTy
 /* Private application code --------------------------------------------------*/
 /* USER CODE BEGIN Application */
 
+
+#include "app_principal.h"
+
+
 static void tarefa_principal(void *argumentos)
 {
   for (;;)
@@ -81,15 +85,7 @@ static void tarefa_principal(void *argumentos)
 
 void MX_FREERTOS_Init(void)
 {
-  xTaskCreate(
-    tarefa_principal,
-    "tarefa_principal",
-    256,
-    NULL,
-    tskIDLE_PRIORITY + 1,
-    NULL
-  );
+  app_principal_iniciar();
 }
 
 /* USER CODE END Application */
-

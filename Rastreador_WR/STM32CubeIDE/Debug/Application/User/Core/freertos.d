@@ -34,7 +34,8 @@ Application/User/Core/freertos.o: \
  ../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_flash_ex.h \
  ../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_flash_ramfunc.h \
  ../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pwr.h \
- ../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pwr_ex.h
+ ../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pwr_ex.h \
+ D:/Projeto-WR/Rastreador_WR/STM32CubeIDE/Application/User/aplicacao/app_principal.h
 ../../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h:
 ../../Core/Inc/FreeRTOSConfig.h:
 ../../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h:
@@ -70,3 +71,4 @@ Application/User/Core/freertos.o: \
 ../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_flash_ramfunc.h:
 ../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pwr.h:
 ../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pwr_ex.h:
+D:/Projeto-WR/Rastreador_WR/STM32CubeIDE/Application/User/aplicacao/app_principal.h:
